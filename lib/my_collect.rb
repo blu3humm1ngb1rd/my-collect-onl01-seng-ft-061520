@@ -7,9 +7,3 @@ new_array
 end
 
 
-def my_collect(collection)
-  collection do |upcased|
-  new_collection << upcased.upcase
-end
-new_collection
-end
