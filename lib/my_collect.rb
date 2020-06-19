@@ -7,6 +7,9 @@ new_array
 end
 
 
-def my_collect(array)
-  
+def my_collect(collection)
+  collection do |upcase|
+  new_collection << upcase
+end
+new_collection
 end
