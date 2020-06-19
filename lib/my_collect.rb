@@ -9,7 +9,7 @@ def my_collect(array)
  else
    "Need data"
  end 
-
+array
 end
 
 
